@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert Schmidt.
-- 👀 I’m interested in ... Security analysis, Security Engineering, Cloud security
-- 🌱 I’m currently learning ... Python and the Microsoft office suite. Improvement of every discipline in Cybersecurity.
-- 💞️ I’m looking to collaborate on ... Basic python projects as I am new to the field and learning python.
+- 👀 I’m interested in ... Security analysis, Security Engineering, Cloud security.
+- 🌱 I’m currently learning ... How to break in and break out.....quietly .
+- 💞️ I’m looking to collaborate on ... Anything and everything that will help further my skills.
 - 📫 How to reach me ... Robert_Schmidt13@protonmail.com
 
 <!---
